@@ -1,7 +1,8 @@
 <div align="center">
 
 
-<img width=200 src="https://user-images.githubusercontent.com/37497007/234396326-81b57a42-ea26-4b8c-a6fe-2066719be9d3.png">
+
+<img width=200 src="https://user-images.githubusercontent.com/37497007/235369463-4cd54a28-ca28-4937-bbd8-dfe4126179bb.svg">
 
 # Barnyard
 
