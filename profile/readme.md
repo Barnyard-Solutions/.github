@@ -13,7 +13,7 @@ A progressive web app designed to help you manage your barnyard animals, includi
 
 | Name  | Goal |
 | ------------- | ------------- |
-|:card_file_box: [Barnyard-Database](https://github.com/Barnyard-Solutions/barnyard-web) |	Database component for storing barnyard animal information
+|:card_file_box: [Barnyard-Database](https://github.com/Barnyard-Solutions/barnyard-database) |	Database component for storing barnyard animal information
 |:computer: [Barnyard-API](https://github.com/Barnyard-Solutions/barnyard-api) |	API component for retrieving and updating barnyard animal information
 |:globe_with_meridians: [Barnyard-Web](https://github.com/Barnyard-Solutions/barnyard-web) |	Web app component for interacting with the barnyard animals
 | :gear: [Barnyard-Full-Stack](https://github.com/Barnyard-Solutions/barnyard-full-stack) | Self-hosting solution for the Barnyard project with a single Docker Compose command
